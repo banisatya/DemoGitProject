@@ -1,0 +1,3 @@
+Initial File 1 text in Mastre branch
+
+Additional changes in File 1
